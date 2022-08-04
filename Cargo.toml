@@ -1,0 +1,13 @@
+[package]
+name = "clique"
+version = "0.1.0"
+authors = ["Max Schoen <schoen.mx@gmail.com>"]
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+indicatif = "0.17.0"
+console = "0.15.1"
+rayon = "1.5.3"
+itertools = "0.10.3"
